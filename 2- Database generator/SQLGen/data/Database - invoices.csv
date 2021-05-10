@@ -1,0 +1,6 @@
+invoice_id,total,date_time,card_number,email,shipment_id
+678,86,2019-02-20 16:02:12,5721627011784937,saleh.bakhit@mail.mcgill.ca,45
+679,122,2019-02-21 16:02:12,2903968403676975,afreen.aliya@mail.mcgill.ca ,67
+680,320,2019-02-22 16:02:12,7654343456547886,sami.sahnoune@mail.mcgill.ca ,90
+681,45,2019-02-23 16:02:12,9485938086485604,ahmed.jamoussi@mail.mcgill.ca,34
+682,189,2019-02-24 16:02:12,5721627011784937,saleh.bakhit@mail.mcgill.ca,66

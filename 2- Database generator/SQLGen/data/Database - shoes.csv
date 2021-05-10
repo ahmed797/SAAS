@@ -1,0 +1,30 @@
+product_id,model_id,gender,status,size_
+6789,8770,M,Available,8
+6790,8770,M,Available,8
+6791,8770,M,Available,12
+5678,8771,M,Available,9
+7853,8772,M,Available,8
+7854,8772,M,Out of stock,9
+7855,8772,M,Available,8
+1254,8773,F,Available,10
+5742,8774,M,Available,11
+6855,8775,M,Out of stock,9
+2133,8776,M,Available,9
+2134,8776,M,Available,8
+2135,8776,M,Available,8.5
+2136,8776,M,Available,11
+2139,8777,M,Available,10
+2140,8777,M,Available,10
+2141,8777,M,Available,9
+2142,8777,M,Available,8
+1233,8778,M,Out of stock,10.5
+2123,8779,F,Out of stock,8
+9832,8780,F,Available,10
+9833,8780,F,Available,10
+9834,8780,F,Available,10
+10210,8780,F,Available,8.5
+1243,8781,F,Available,7
+1244,8781,F,Available,8
+1245,8781,F,Available,7
+1246,8781,F,Available,8
+1247,8781,F,Available,8

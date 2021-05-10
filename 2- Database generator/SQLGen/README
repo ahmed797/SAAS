@@ -1,0 +1,8 @@
+To run (skip to 4 if you don't want to use new data files):
+1 add more data to the Data excel sheets on the drive
+2 download each sheet as a csv file
+3 move the files into ./data (replace existing ones)
+4 run python SQLGen.py > data.sql (uses python 3)
+5 copy the data.sql script to the server
+6 connect to the database and clean it (run cleanSchema.sql and createSchema.sql)
+7 run the data.sql script to insert new data

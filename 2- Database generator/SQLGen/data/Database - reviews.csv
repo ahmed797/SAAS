@@ -1,0 +1,6 @@
+email,model_id,gender,comment_,rating
+saleh.bakhit@mail.mcgill.ca,8770,M,"""The shoe fit splendidly.""",5
+afreen.aliya@mail.mcgill.ca ,8773,F,"""A bit of a small fit - its still very comfortable!""",4
+sami.sahnoune@mail.mcgill.ca ,8771,M,"""Terrible shoe. Delete this.""",1
+ahmed.jamoussi@mail.mcgill.ca,8772,M,"""Could have been better, but overall very happy with it""",3.5
+saleh.bakhit@mail.mcgill.ca,8778,M,"""Trash.""",1.5
